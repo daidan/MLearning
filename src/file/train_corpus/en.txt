@@ -1,0 +1,21 @@
+Since the short text, randomness and a large amount of noise make the traditional 
+	
+methods of topic detection can not be solved to get the new topic, and this topic 
+
+detection techniques have not considered the time factor of the microblog post.
+
+In this paper, the microblog topic detection method based on clustering ensemble 
+
+is proposed for the characteristics of micro-blog and topic dynamic performance.
+
+ This method considers the nonlinear time factor of microblog post, the improved 
+
+ K-Means methods is used to construct the corresponding base cluster based on each 
+
+ feature of microblog, evaluate the effectiveness and difference between the each cluster, 
+
+ so as to set up the ensemble weights and the clustering ensemble is used for microblog topic detection.
+
+  Experiments on real microblog data show that the proposed method get a accuracy up to 9.5% 
+
+in microblog topic detection, which can detect the new topic more 

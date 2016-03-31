@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/cluster/KMeans.py=utf-8
+encoding//src/dataPro/DataProcessing.py=utf-8
+encoding//src/dataPro/TF-IDF.py=utf-8
+encoding//src/dataPro/WordSeg.py=utf-8
+encoding//src/file/train_word_bag/stoplist.txt=GBK
+encoding//src/scikit-learn-master/sklearn/naive_bayes.py=utf-8
+encoding/<project>=UTF-8
