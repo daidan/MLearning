@@ -85,13 +85,4 @@ file_obj.close();
 
 
 print "构建文本对象接受！"
-# test
         
-    
-
-
-
-
-
-    
-    
