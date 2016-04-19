@@ -1,7 +1,7 @@
 eclipse.preferences.version=1
-encoding//src/SOM/SelfOrgMap.py=utf-8
-encoding//src/SOM/Untils.py=utf-8
-encoding//src/SOM/testSOM.py=utf-8
+encoding//src/BPNetwork/SelfOrgMap.py=utf-8
+encoding//src/BPNetwork/Untils.py=utf-8
+encoding//src/BPNetwork/testSOM.py=utf-8
 encoding//src/cluster/KMeans.py=utf-8
 encoding//src/dataPro/DataProcessing.py=utf-8
 encoding//src/dataPro/TF-IDF.py=utf-8
